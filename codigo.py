@@ -1,0 +1,1 @@
+print("botame tu ga")
